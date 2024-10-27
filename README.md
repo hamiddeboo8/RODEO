@@ -5,9 +5,11 @@ This repository contains the code and experimental setup for RODEO, a novel appr
 
 ## Citation
 If you find this useful, please cite our paper:
-```@inproceedings{mirzaei2024rodeo,
+```
+@inproceedings{mirzaei2024rodeo,
   title={RODEO: Robust Outlier Detection via Exposing Adaptive Out-of-Distribution Samples},
   author={Mirzaei, Hossein and Jafari, Mohammad and Dehbashi, Hamid Reza and Ansari, Ali and Ghobadi, Sepehr and Hadi, Masoud and Soltani Moakhar, Arshia and Azizmalayeri, Mohammad and Soleymani Baghshah, Mahdieh and Rohban, Mohammad Hossein},
   booktitle={Proceedings of the 41st International Conference on Machine Learning (ICML)},
   year={2024}
-}```
+}
+```
